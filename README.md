@@ -1,4 +1,6 @@
-# Community
+# DNE Community
+
+<img src="https://raw.githubusercontent.com/devnaestrada/community/master/dne-community.jpg" alt="Community Logo" />
 
 O DNE Community foi criado com a idéia de dar mais visibilidade para eventos, projetos e iniciativas das comunidades. Sim, todas as comunidades, não importa sua linguagem. Nós acreditamos que podemos trazer todas as comunidades para mais perto e ajudar a todos como uma grande rede de colaboraço e queremos que vocês façam parte disso.
 
