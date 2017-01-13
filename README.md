@@ -23,3 +23,13 @@ Quando se tratar de um evento, projeto e/ou meetup existem outras tags que podem
 
 - frontend
 - backend
+
+## Como sugerir?
+
+Na hora da criação das issues selecione as labels adequadas ao tipo de sugestão que você gostaria de fazer e divulgar aqui.
+
+1. Vá em [issues](https://github.com/devnaestrada/community/issues)
+2. "New Issue"
+3. Digite as informações, faça comentário, dê sua opinião.
+4. Escolha as labels para identificar sobre o que se trata aquela issue.
+5. Feito!
