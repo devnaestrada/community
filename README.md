@@ -12,7 +12,7 @@ Este repositório foi criado para suportar justamente essas ideias. Aqui é um e
 
 Por enquanto as sugestões serão de certa forma limitadas a alguns tópicos, mas mesmo assim esperamos ter muito conteúdo bacana.
 
-Criamos diversas labels para suportar a criação de issues categorizadas aqui no repositório. Até o momento sao permitidas as seguintes tags:
+Adicionamos diversas labels para suportar a criação de issues categorizadas aqui no repositório. Até o momento sao permitidas as seguintes tags:
 
 - evento
 - projeto
