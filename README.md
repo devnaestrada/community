@@ -4,9 +4,9 @@
 
 ## Motivação
 
-O DNE Community foi criado com a idéia de dar mais visibilidade para eventos, projetos e iniciativas das comunidades. Sim, todas as comunidades, não importa sua linguagem. Nós acreditamos que podemos trazer todas as comunidades para mais perto e ajudar a todos como uma grande rede de colaboração e queremos que vocês façam parte disso.
+O DNE Community foi criado com a ideia de dar mais visibilidade para eventos, projetos e iniciativas das comunidades. Sim, todas as comunidades, não importa sua linguagem. Nós acreditamos que podemos trazer todas as comunidades para mais perto e ajudar a todos como uma grande rede de colaboração e queremos que vocês façam parte disso.
 
-Este repositório foi criado para suportar justamente essas idéias. Aqui é um espaço onde qualquer um pode sugerir (através de issues) eventos, meetups, projetos e até pessoas para falarmos nos episódios.
+Este repositório foi criado para suportar justamente essas ideias. Aqui é um espaço onde qualquer um pode sugerir (através de issues) eventos, meetups, projetos e até pessoas para falarmos nos episódios.
 
 ## Sugerindo
 
